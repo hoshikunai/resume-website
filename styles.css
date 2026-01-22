@@ -16,6 +16,14 @@
             line-height: 26px;
             padding-bottom: 50px;
             }
+            a {
+                color: #dedede;
+                text-decoration: none;
+            }
+            a:hover {
+                color: #8b8b8b;
+                text-decoration: none;
+            }
             .skip{
                 position: absolute;
                 left: -10000px;
